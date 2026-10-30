@@ -1,0 +1,11 @@
+{
+  "name": "genpark-agent-executive-brief-dashboard-skill",
+  "version": "1.0.0",
+  "description": "Executive decision brief and KPI telemetry dashboard synthesizer extracting strategic insights",
+  "mcp": {
+    "server": "mcp_server.py",
+    "tools": [
+      "generate_executive_brief"
+    ]
+  }
+}
